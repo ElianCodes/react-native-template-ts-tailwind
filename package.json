@@ -1,0 +1,26 @@
+{
+  "name": "react-native-template-ts-tailwind",
+  "version": "0.0.2",
+  "description": "Clean and minimalist React Native template for a quick start with Tailwind and typescript.",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "files": [
+    "template",
+    "template.config.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ElianVanCutsem/react-native-template-ts-tailwind.git"
+  },
+  "keywords": [
+    "react-native",
+    "tailwind"
+  ],
+  "author": "Elian Van Cutsem <elianvancutsem@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ElianVanCutsem/react-native-template-ts-tailwind/issues"
+  },
+  "homepage": "https://github.com/ElianVanCutsem/react-native-template-ts-tailwind#readme"
+}
